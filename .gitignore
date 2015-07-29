@@ -1,0 +1,30 @@
+# NPM
+node_modules/
+
+# Log Files
+*.log
+
+# Bower Files
+.bowerrc
+bower_components/
+
+# Target Folder
+.target/
+
+# SASS Files
+.sass-cache/
+
+# Database
+.database/
+
+# Grunt
+.grunt
+
+# Jasmine
+_SpecRunner.html
+
+# Mac files
+.DS_Store
+
+# Local .env file (foreman)
+.env

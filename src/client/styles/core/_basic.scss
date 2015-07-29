@@ -1,0 +1,12 @@
+$basic-font-color: #000000;
+
+body {
+  color: $basic-font-color;
+  font-family: Verdana, Arial, Sans Serif;
+  font-size: 12px;
+}
+
+a {
+  color: $basic-font-color;
+  text-decoration: none;
+}
